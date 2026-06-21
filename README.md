@@ -17,7 +17,7 @@ Run:
 r4t
 
 ## or use
-pip install r4t
+pipx install r4t
 
 Run:
 
