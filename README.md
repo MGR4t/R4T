@@ -15,3 +15,10 @@ pip install -e .
 Run:
 
 r4t
+
+## or use
+pip install r4t
+
+Run:
+
+r4t
