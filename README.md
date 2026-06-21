@@ -2,10 +2,16 @@
 
 Temporary anonymous LAN chat.
 
-Install:
+## Installation
 
-pip install rat-burrow
+Clone the repository:
+
+git clone https://github.com/MGR4t/R4T.git
+
+cd R4T
+
+pip install -e .
 
 Run:
 
-rat
+r4t
